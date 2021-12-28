@@ -1,5 +1,7 @@
-# Continuous Integration 
+# Continuous Integration
 Continuous Integration (CI) with GitHub Actions and Python - Part 3: Code Coverage with Pytest
+- Continuous Integration (CI) with GitHub Actions and Python - Part 1: Linting. [Link](https://github.com/nekoemperor/CI-Linting)
+- Continuous Integration (CI) with GitHub Actions and Python - Part 2: Testing. [Link](https://github.com/nekoemperor/CI-Testing)
 
 ## Description
 This repo serves as a reference for the YouTube video found [here](https://www.youtube.com/watch?v=OOZtW3iF0is&list=PL0dOL8Z7pG3J6t1pqRQiNarBGY-ZnIJcq&index=3).
